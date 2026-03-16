@@ -1,0 +1,496 @@
+{
+  "users": [
+    {
+      "id": "user-cb0r3zh2-1773663508456",
+      "name": "Guest",
+      "createdAt": 1773663508456
+    },
+    {
+      "id": "user-pq2yk9qz-1773663970716",
+      "name": "Test User",
+      "email": "test1773663970500@example.com",
+      "passwordHash": "3a2fd0b087e83f420f4380bad73c9fe5:cf67d051db2305fb5701af605457edc8ce889fa59d4d91b3ec30f07cf2063c644d5bf7e32a6702bbeb88538b0c357da71dd22ed027b504a5f50c3e4b3589b513",
+      "role": "student",
+      "createdAt": 1773663970848
+    },
+    {
+      "id": "user-2f1mkap0-1773664035737",
+      "name": "Test User",
+      "email": "test1773664035281@example.com",
+      "passwordHash": "f139b01f466fc093f8a12db9da5426be:08d29354ec1292257412774f65e72d736455623f418f76beaa46db12d2552560fbf41de3ef5885c92e03fd43a106c645a39ce089b93df3abe17792ccc43dbd78",
+      "role": "student",
+      "createdAt": 1773664035946
+    },
+    {
+      "id": "user-gc0b05s3-1773664122162",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773664122162
+    },
+    {
+      "id": "user-rx4pkady-1773664122230",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773664122230
+    },
+    {
+      "id": "user-61dfgjcs-1773664222940",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773664222940
+    },
+    {
+      "id": "user-fdepmtrk-1773664223058",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773664223058
+    },
+    {
+      "id": "user-1cmte5dp-1773664754511",
+      "name": "Admin User",
+      "email": "admin1773664754079@example.com",
+      "passwordHash": "e795f9b38b68e216489f6b09ca66b5dc:c707f0ea6fb9266e9042721a9ed5a2bab1599bbe9774e956eee5bc7cb9fc950ef89f4a115eb651b4132ec7dd5701a94760fdf15363d0d0602e53f124bec09dd1",
+      "role": "admin",
+      "createdAt": 1773664754706
+    },
+    {
+      "id": "user-9k96nqw4-1773665335199",
+      "name": "Admin CRUD",
+      "email": "admincrud1773665334624@example.com",
+      "passwordHash": "fbeea6ca517e18d57c2195586c91d7f6:840a0684659d3be5664ae9087674b58aaf5c78d4e6ac64c497b5a897479024ffbaffba6b7e595244635728413677fe46ef566bcbb13d92fb67735608fda30172",
+      "role": "student",
+      "createdAt": 1773665335436
+    },
+    {
+      "id": "user-yr1nxhq0-1773665485126",
+      "name": "Platform Admin",
+      "email": "admin@learnwithladynisy.local",
+      "passwordHash": "8a44c58c0c0a8177f7df72fd12a1838e:4959f3861d109509f80e0201d28f78988608f5f95302b35f9bfa7dc8833ff6ffeb9c319834509b93a6caadd3a6c189ea6c6d84e251bdecbf6332307e124d7a6d",
+      "role": "admin",
+      "createdAt": 1773665485313
+    },
+    {
+      "id": "user-hmhadssc-1773667448035",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773667448035
+    },
+    {
+      "id": "user-d88mrvq4-1773668115196",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773668115196
+    },
+    {
+      "id": "user-u9rs52ls-1773668115996",
+      "name": "Smoke User",
+      "email": "smoke1773668115608@example.com",
+      "passwordHash": "0df30325a05660b71748aa102a8ddce9:7a4f40471f931295e3098ddd391390593c7c1cfd8536dda2d996d42521c47b684813452b5b0f30ffe28c9986d3bae76c910f211d34a4b4173e9fbdb7beb33562",
+      "role": "student",
+      "createdAt": 1773668116151
+    },
+    {
+      "id": "user-wdb6h4iu-1773668255735",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773668255735
+    },
+    {
+      "id": "user-ytexq7t5-1773668255835",
+      "name": "Smoke User",
+      "email": "smoke1773668255747@example.com",
+      "passwordHash": "468efc4e5af5645838f6be4bf7e47adc:fa3534f0a13c3233d959f784025c113ed3b235d9ec2de48ef065600b6b20baf848f2f7f51c85640a6906efc16b66143382bcd18fd8a8d697e2adb1c6a38974f9",
+      "role": "student",
+      "createdAt": 1773668256002
+    },
+    {
+      "id": "user-9pzhu0n6-1773668268803",
+      "name": "Prog User",
+      "email": "prog1773668268804@example.com",
+      "passwordHash": "601c8efb0c5262c296dc6b51bfd3d916:0c955a37cd45c96f79943415c39c11ef1f3c43b30b2a16edb4c844906ea0fa77596a3dfed5a1bda47afb0238bc961522b6ba8c4413fa18e0c2ec4f0ed2cb4a6e",
+      "role": "student",
+      "createdAt": 1773668268937
+    },
+    {
+      "id": "user-qofvsa13-1773668326177",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773668326177
+    },
+    {
+      "id": "user-61uf195c-1773668326183",
+      "name": "Smoke User",
+      "email": "smoke1773668326173@example.com",
+      "passwordHash": "84b478bb6addc25bfbe89d1bcaf20585:94918abed255a6f8f069cb8374f3e6e23381272602a99a481bad016eb680e95e4321d888dd8e387cf80a4e351615d6ddf82f6c3b132ee3c723a1d50734ac1944",
+      "role": "student",
+      "createdAt": 1773668326315
+    },
+    {
+      "id": "user-eo8lndef-1773668505285",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773668505285
+    },
+    {
+      "id": "user-09ncb55h-1773668505316",
+      "name": "Guest",
+      "email": null,
+      "passwordHash": null,
+      "role": "guest",
+      "createdAt": 1773668505316
+    },
+    {
+      "id": "user-mh9ke9ey-1773670374872",
+      "name": "ClickTester",
+      "email": "clicktest_1773670345970@test.local",
+      "passwordHash": "6cf179efa67d751534220e4a1e3957c2:9c490f1b9d9b659b8bbef58d83b5930c3fe51f56b8c78aa5056639dfa32bf7e0baec049dc57612cb2193e3b6aff53c05fc40bfe739034756b664d4f4a6389330",
+      "role": "student",
+      "createdAt": 1773670375354
+    },
+    {
+      "id": "user-toqylc6n-1773671442084",
+      "name": "ClickTester",
+      "email": "ct_1773671441595@test.local",
+      "passwordHash": "a764f01082ae4987d971885594a09a8d:e1c4e94211248b6c4353414378804d9ed9776ef3399d32497a33821f769e3e7dfeac8fe8716571c630b1d3c78f06778abf96906f147d443de7dc80354c9ab78a",
+      "role": "student",
+      "createdAt": 1773671442323
+    },
+    {
+      "id": "user-9deerb4v-1773671526860",
+      "name": "ClickTester",
+      "email": "ct_1773671523431@test.local",
+      "passwordHash": "e467e9a109b1d8e1deace4e37c907017:dc1fe31f8875a25ff67c84eb5d8b5833c738e173fedc2bdfe6d59091cc0e87a336f234fd3b0031a986284121946027773f1872ef1113a0e6bec12fafb5fea0b8",
+      "role": "student",
+      "createdAt": 1773671527159
+    },
+    {
+      "id": "user-m87ywdsx-1773672386609",
+      "name": "ClickTester",
+      "email": "ct_1773672365664@test.local",
+      "passwordHash": "74889e3e4f3732e872e9618a08059b01:ae0b0f013691bf7b53e7ccf6e8dd3fc2276b8b33a6761d069afd65f639477ca776c4e9e512cdc365457d49eb6018ac9938f862b08a70e4b9fbe8642fcf4f861a",
+      "role": "student",
+      "createdAt": 1773672387639
+    },
+    {
+      "id": "user-m5gjtk15-1773672504023",
+      "name": "ClickTester",
+      "email": "ct_1773672499893@test.local",
+      "passwordHash": "252d2e2ef5e1153a7c95b83d3d29d17d:8d53001cd4eacc2c339e44a40a26815538c0e58b4bbba6c25f1f3b554fe5e36a64ebc85972a59b2428bf175ceb2f1c448d581459517e24d90e2e731510fbd99a",
+      "role": "student",
+      "createdAt": 1773672505391
+    },
+    {
+      "id": "user-r5qhg5uk-1773672681574",
+      "name": "ClickTester",
+      "email": "ct_1773672679682@test.local",
+      "passwordHash": "bceac9b83ce8920da15130c1c9966a74:7d0fe8a84939875dfb982da38d7d52b1c4cbf4a96f59adc9ad292cc430b1ba98b4733db815935119ef6ccc536730090a4f0c3b1625e6a9e32f8cdaa7b439c1b3",
+      "role": "student",
+      "createdAt": 1773672681930
+    }
+  ],
+  "sessions": [
+    {
+      "token": "token-4fmhl1ye-1773664035949",
+      "userId": "user-2f1mkap0-1773664035737",
+      "createdAt": 1773664035949
+    },
+    {
+      "token": "token-cjnugm02-1773664754712",
+      "userId": "user-1cmte5dp-1773664754511",
+      "createdAt": 1773664754712
+    },
+    {
+      "token": "token-khnlej04-1773665335439",
+      "userId": "user-9k96nqw4-1773665335199",
+      "createdAt": 1773665335439
+    },
+    {
+      "token": "token-i4kv6zcl-1773665485315",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773665485315
+    },
+    {
+      "token": "token-w1bsrmwj-1773665527315",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773665527315
+    },
+    {
+      "token": "token-yy7vwqtb-1773668118100",
+      "userId": "user-u9rs52ls-1773668115996",
+      "createdAt": 1773668118100
+    },
+    {
+      "token": "token-xpnyjnza-1773668123786",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773668123786
+    },
+    {
+      "token": "token-czg8eb8p-1773668256198",
+      "userId": "user-ytexq7t5-1773668255835",
+      "createdAt": 1773668256198
+    },
+    {
+      "token": "token-6bikyk75-1773668256366",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773668256366
+    },
+    {
+      "token": "token-kcmf391z-1773668268939",
+      "userId": "user-9pzhu0n6-1773668268803",
+      "createdAt": 1773668268939
+    },
+    {
+      "token": "token-ft0bh0yw-1773668326477",
+      "userId": "user-61uf195c-1773668326183",
+      "createdAt": 1773668326477
+    },
+    {
+      "token": "token-gibdr5xi-1773668326557",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773668326557
+    },
+    {
+      "token": "token-fi73rt5u-1773668494973",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773668494973
+    },
+    {
+      "token": "token-qzx02emq-1773670375365",
+      "userId": "user-mh9ke9ey-1773670374872",
+      "createdAt": 1773670375365
+    },
+    {
+      "token": "token-r7e31909-1773670451600",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773670451600
+    },
+    {
+      "token": "token-szillss9-1773670452689",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773670452689
+    },
+    {
+      "token": "token-alc9hf8u-1773671442332",
+      "userId": "user-toqylc6n-1773671442084",
+      "createdAt": 1773671442332
+    },
+    {
+      "token": "token-ly1ljpkd-1773671527163",
+      "userId": "user-9deerb4v-1773671526860",
+      "createdAt": 1773671527163
+    },
+    {
+      "token": "token-8h50u6bk-1773671531048",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773671531048
+    },
+    {
+      "token": "token-bybgk3yn-1773671531527",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773671531527
+    },
+    {
+      "token": "token-poyu5e1c-1773672387788",
+      "userId": "user-m87ywdsx-1773672386609",
+      "createdAt": 1773672387788
+    },
+    {
+      "token": "token-zs1zxzyi-1773672390911",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672390911
+    },
+    {
+      "token": "token-msc9p8qo-1773672391661",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672391661
+    },
+    {
+      "token": "token-utc5j1hs-1773672505431",
+      "userId": "user-m5gjtk15-1773672504023",
+      "createdAt": 1773672505431
+    },
+    {
+      "token": "token-jw5w9gti-1773672511216",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672511216
+    },
+    {
+      "token": "token-4f90ysgq-1773672513391",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672513391
+    },
+    {
+      "token": "token-hb0uf4lu-1773672681934",
+      "userId": "user-r5qhg5uk-1773672681574",
+      "createdAt": 1773672681934
+    },
+    {
+      "token": "token-p3sbbtl8-1773672683625",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672683625
+    },
+    {
+      "token": "token-s3azq12t-1773672684125",
+      "userId": "user-yr1nxhq0-1773665485126",
+      "createdAt": 1773672684125
+    }
+  ],
+  "progress": [
+    {
+      "userId": "user-cb0r3zh2-1773663508456",
+      "lessonId": "html-foundations",
+      "completedAt": 1773663508659
+    },
+    {
+      "userId": "user-fdepmtrk-1773664223058",
+      "lessonId": "custom-1773664754836",
+      "completedAt": 1773666199883
+    },
+    {
+      "userId": "user-u9rs52ls-1773668115996",
+      "lessonId": "html-foundations",
+      "completedAt": 1773668119851
+    },
+    {
+      "userId": "user-ytexq7t5-1773668255835",
+      "lessonId": "html-foundations",
+      "completedAt": 1773668256280
+    },
+    {
+      "userId": "user-9pzhu0n6-1773668268803",
+      "lessonId": "html-foundations",
+      "completedAt": 1773668268945
+    },
+    {
+      "userId": "user-61uf195c-1773668326183",
+      "lessonId": "html-foundations",
+      "completedAt": 1773668326491
+    },
+    {
+      "userId": "user-mh9ke9ey-1773670374872",
+      "lessonId": "html-foundations",
+      "completedAt": 1773670437957
+    },
+    {
+      "userId": "user-9deerb4v-1773671526860",
+      "lessonId": "html-foundations",
+      "completedAt": 1773671530466
+    },
+    {
+      "userId": "user-m87ywdsx-1773672386609",
+      "lessonId": "html-foundations",
+      "completedAt": 1773672390337
+    },
+    {
+      "userId": "user-m5gjtk15-1773672504023",
+      "lessonId": "html-foundations",
+      "completedAt": 1773672510415
+    },
+    {
+      "userId": "user-r5qhg5uk-1773672681574",
+      "lessonId": "html-foundations",
+      "completedAt": 1773672683438
+    }
+  ],
+  "snippets": [
+    {
+      "id": "snippet-76uwjjrh-1773663508791",
+      "userId": "user-cb0r3zh2-1773663508456",
+      "name": "demo",
+      "html": "<h1>x</h1>",
+      "css": "h1{color:red}",
+      "js": "console.log(1)",
+      "created_at": 1773663508791
+    }
+  ],
+  "certificates": [
+    {
+      "id": "LWLN-2026-846447",
+      "userId": "user-cb0r3zh2-1773663508456",
+      "score": 5,
+      "total": 5,
+      "issuedAt": 1773663508801
+    },
+    {
+      "id": "LWLN-2026-410196",
+      "userId": "user-u9rs52ls-1773668115996",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773668122400
+    },
+    {
+      "id": "LWLN-2026-339449",
+      "userId": "user-ytexq7t5-1773668255835",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773668256337
+    },
+    {
+      "id": "LWLN-2026-376963",
+      "userId": "user-61uf195c-1773668326183",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773668326544
+    },
+    {
+      "id": "LWLN-2026-694770",
+      "userId": "user-m87ywdsx-1773672386609",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773672390808
+    },
+    {
+      "id": "LWLN-2026-495701",
+      "userId": "user-m5gjtk15-1773672504023",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773672511076
+    },
+    {
+      "id": "LWLN-2026-179680",
+      "userId": "user-r5qhg5uk-1773672681574",
+      "score": 4,
+      "total": 5,
+      "issuedAt": 1773672683575
+    }
+  ],
+  "customTutorials": [
+    {
+      "topic": "Programming Languages",
+      "id": "custom-1773664754836",
+      "exerciseHint": "Use promise chaining method.",
+      "level": "Intermediate",
+      "title": "Async JavaScript Deep Dive",
+      "exercisePrompt": "Promise._____(fn)",
+      "description": "Understand event loop and async patterns.",
+      "exerciseAnswer": "then",
+      "duration": "40 min",
+      "exampleCss": "h1 { color: #a43a00; }",
+      "exampleHtml": "<h1>Async JS</h1>",
+      "concepts": [
+        "Event loop",
+        "Promises",
+        "Async/Await"
+      ],
+      "exampleJs": "console.log(\"async\")"
+    }
+  ]
+}
