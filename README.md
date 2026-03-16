@@ -1,6 +1,15 @@
 # learnwithladynisy
 
 An interactive online programming learning platform MVP built with React + Vite + TypeScript.
+<img width="1277" height="574" alt="Screenshot 2026-03-16 143050" src="https://github.com/user-attachments/assets/df6045a6-9515-40c5-891d-56b2ecfce5ef" />
+<img width="1307" height="670" alt="Screenshot 2026-03-16 155748" src="https://github.com/user-attachments/assets/04b64168-8b09-4417-8581-d92b9a7d5a63" />
+<img width="1310" height="713" alt="Screenshot 2026-03-16 142710" src="https://github.com/user-attachments/assets/ca146d28-d083-46e9-932a-6720e12851f8" />
+
+<img width="1300" height="681" alt="Screenshot 2026-03-16 142943" src="https://github.com/user-attachments/assets/cf36dce3-b704-48a8-811a-d1182c1c9ea9" />
+
+
+
+
 
 ## Included in this MVP
 
